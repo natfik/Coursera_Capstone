@@ -1,0 +1,5 @@
+i will be using foursquare location
+data set for newyork and toronto 
+abd also the jason file for newyork(https://cocl.us/new_york_dataset)
+and wikipedia file for toronto (https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M)
+to compare venues for each city
