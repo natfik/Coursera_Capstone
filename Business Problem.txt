@@ -1,0 +1,3 @@
+the business problem for this project is 
+identifying which city has the most venue
+which is a clear metrics for tourist to visit a certain place 
